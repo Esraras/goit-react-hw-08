@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 400px; /* Form ile aynı genişlikte tutmak için */
+    margin-bottom: 20px;
+}
+
+.auth-links a {
+    text-decoration: none;
+    color: #007bff;
+    margin-left: 15px;
+    font-weight: bold;
+}
