@@ -1,10 +1,8 @@
-import ContactPage from "../ContactPage/ContactPage.jsx";
-
 function HomePage() {
 
   return (
     <div>
-      <ContactPage />
+      welcome to home page
     </div>
   );
 }
